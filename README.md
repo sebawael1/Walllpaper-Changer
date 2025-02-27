@@ -2,7 +2,8 @@
 
 🚀 Unlock a new experience every time! Say goodbye to boring wallpapers—this app transforms your lock screen and home screen with a fresh image every time you unlock your phone! Choose your favorite pictures and let them cycle automatically, bringing excitement, beauty, and a personal touch to your device. Whether it’s breathtaking landscapes, stunning art, or cherished memories, every unlock is a surprise! Make your screen come alive! 🎉✨
 د
-!(https://github.com/user-attachments/assets/ed261f29-a44b-41f4-b393-222a36a898d6)
+
+(https://github.com/user-attachments/assets/ed261f29-a44b-41f4-b393-222a36a898d6)
 
 
 
