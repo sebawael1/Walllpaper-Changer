@@ -4,8 +4,10 @@
 
 # In This Project I Used:
 - 4 Files written with java
-## MainActivity.java
-: responsible for 'Handles image selection and wallpaper setting', 'Requests necessary permissions', 'Starts WallpaperService and registers receivers for screen unlock and lock events'
+****MainActivity.java
+
+
+  responsible for 'Handles image selection and wallpaper setting', 'Requests necessary permissions', 'Starts WallpaperService and registers receivers for screen unlock and lock events'
 ## UnlockReceiver.java
 :'Listens for screen unlock events and changes the home screen wallpaper', 'Resets wallpaper index on device boot'
 ## LockScreenReceiver.java
