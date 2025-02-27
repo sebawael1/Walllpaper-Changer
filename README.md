@@ -29,4 +29,4 @@ Defines app permissions, activities, services, and broadcast receivers, Declares
 4. The wallpaper will change every time you unlock the device.
 
 
-### _Enjoy Dynamic Wallpapers!_😄
+### Enjoy Dynamic Wallpapers!😄
