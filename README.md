@@ -26,4 +26,4 @@ Defines app permissions, activities, services, and broadcast receivers, Declares
 4. The wallpaper will change every time you unlock the device.
 
 
-### _Every time you lock/unlock your device, the wallpaper will change automatically._
+### _Enjoy Dynamic Wallpapers!_
